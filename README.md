@@ -45,7 +45,7 @@ Software Developer with 2 years of experience building scalable applications and
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Abhiraj-cuchd/project1">
+  <a href="https://github.com/Abhiraj-cuchd/project1](https://github.com/Abhiraj-cuchd/Travel-Agency-Microservice-API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiraj-cuchd&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/Abhiraj-cuchd/project2">
